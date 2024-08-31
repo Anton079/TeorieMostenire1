@@ -1,0 +1,14 @@
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\bin\Debug\net6.0\TeorieMostenire.exe
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\bin\Debug\net6.0\TeorieMostenire.deps.json
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\bin\Debug\net6.0\TeorieMostenire.runtimeconfig.json
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\bin\Debug\net6.0\TeorieMostenire.dll
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\bin\Debug\net6.0\TeorieMostenire.pdb
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\TeorieMostenire.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\TeorieMostenire.AssemblyInfoInputs.cache
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\TeorieMostenire.AssemblyInfo.cs
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\TeorieMostenire.csproj.CoreCompileInputs.cache
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\TeorieMostenire.dll
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\refint\TeorieMostenire.dll
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\TeorieMostenire.pdb
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\TeorieMostenire.genruntimeconfig.cache
+C:\mycode\oop\incapsularea\modificatori-de-acces-constructori\TeorieMostenire\TeorieMostenire\obj\Debug\net6.0\ref\TeorieMostenire.dll
